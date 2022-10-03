@@ -1053,31 +1053,38 @@ pat_fun(); goto Home;
 }
 
   # 6.	Results Discussion
+ 
   ![image](https://user-images.githubusercontent.com/92660593/193568383-d234ea84-0b04-4f20-a919-9e7d2a7c968b.png)
 
 When programs start, user sees such interface. The user can register himself or herself. Login as a patient, doctor, or admin. Or ultimately close the program. The reason for choosing red color on white background is that this color coordination a norm in medical field.
+ 
   ![image](https://user-images.githubusercontent.com/92660593/193568510-eecb7d07-dde8-4af2-b370-d636b4f70e20.png)
 
 
 # The login entries are set as default:
 Username: adminadmin Password: 1234
 When logged in successfully as an admin, there are options related to admin like adding data of doctors or admin, viewing the data or delete the data.
+ 
  ![image](https://user-images.githubusercontent.com/92660593/193568579-7ab92b80-0661-4905-945a-79ddccf51de4.png)
 
  
 As, we have logged in as admin and checked that there are no doctors available, the programs ask us to add doctors for appointment.
 
 Moving onward, let’s try to register as a patient
+ 
 ![image](https://user-images.githubusercontent.com/92660593/193568610-6575022c-3da2-402f-ae56-69a86d3db5de.png)
  
 Upon selecting registration, we can see that program asked us to enter name, password, gender and age. Upon entering data, the program gave us patient ID through random function.
+ 
  ![image](https://user-images.githubusercontent.com/92660593/193568633-f45ca9ac-dad9-48c5-a4c3-3366543a3ff2.png)
 
  
 Demonstrating delete function.
+ 
 ![image](https://user-images.githubusercontent.com/92660593/193568650-87e2d34f-6bfb-43d9-aeaf-30f1351329c4.png)
 
 Exiting program.
+ 
 ![image](https://user-images.githubusercontent.com/92660593/193568669-1ec1b4f7-331c-4226-af97-0e6bec85c90f.png)
 
 Invalidity is given upon wrong login.
